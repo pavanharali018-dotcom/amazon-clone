@@ -35,9 +35,11 @@ cd amazon-clone
 
 Then just open `Amazonclone.html` directly in your browser — no build steps needed.
 
+
 ## 📸 Preview
 
-*(Add a screenshot of your homepage here once pushed)*
+![Amazon Clone Screenshot 1](assets/amazon-page.png)
+![Amazon Clone Screenshot 2](assets/amazon-page2.png)
 
 ## 🧭 Roadmap
 
@@ -52,5 +54,7 @@ Then just open `Amazonclone.html` directly in your browser — no build steps ne
 ---
 
 ⭐ If you like this project, consider giving it a star!
+## 📸 Preview
+
 
 
